@@ -91,6 +91,12 @@ Consejos:
 - El contenido depende de módulos / sitios de terceros; la disponibilidad varía.
 - Las betas pueden cambiar entre versiones: usa siempre el APK más reciente.
 
+Documentación legal:
+
+- [Aviso legal](legal/aviso-legal.md)
+- [Política de privacidad](legal/privacidad.md)
+- [Términos de uso](legal/terminos.md)
+
 ---
 
 ## Soporte
